@@ -1,4 +1,4 @@
-Gustavo Silva
+#Gustavo Silva
 
 🎓 Estudante de Ciências Contábeis
 📊 Foco em Controladoria | FP&A | Análise de Custos
@@ -6,7 +6,7 @@ Gustavo Silva
 
 ⸻
 
-Sobre mim
+#Sobre mim
 
 Sou estudante de Ciências Contábeis com interesse em Planejamento Financeiro, Controladoria e Análise de Desempenho.
 
@@ -16,18 +16,8 @@ Busco oportunidade de estágio para desenvolver habilidades analíticas e contri
 
 ⸻
 
-Experiência Prática
 
-Analista de Orçamentos (Freelancer)
-Empresa de Engenharia Civil – RJ
-	•	Elaboração e estruturação de planilhas orçamentárias em Excel
-	•	Organização e consolidação de custos de materiais e serviços
-	•	Controle financeiro por centro de custo
-	•	Apoio na análise de variação entre valores previstos e realizados
-
-⸻
-
-Projetos
+#Projetos
 
 📊 Dashboard Financeiro em Power BI
 	•	Análise de receitas, despesas e indicadores mensais
@@ -41,7 +31,7 @@ Projetos
 
 ⸻
 
-Ferramentas
+#Ferramentas
 	•	Excel
 	•	Power BI
 	•	Noções de SQL
@@ -49,7 +39,7 @@ Ferramentas
 
 ⸻
 
-Objetivo
+#Objetivo
 
 Atuar em estágio nas áreas de:
 	•	Controladoria
