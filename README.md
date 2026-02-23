@@ -1,16 +1,58 @@
-## Hi there 👋
+Gustavo Silva
 
-<!--
-**gustavosilvafinance/gustavosilvafinance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciências Contábeis
+📊 Foco em Controladoria | FP&A | Análise de Custos
+📍 Rio de Janeiro – RJ
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sobre mim
+
+Sou estudante de Ciências Contábeis com interesse em Planejamento Financeiro, Controladoria e Análise de Desempenho.
+
+Tenho experiência prática na elaboração e estruturação de planilhas orçamentárias em Excel para empresa de engenharia civil, atuando na organização de custos e suporte à análise financeira de projetos.
+
+Busco oportunidade de estágio para desenvolver habilidades analíticas e contribuir com controle orçamentário e suporte à tomada de decisão.
+
+⸻
+
+Experiência Prática
+
+Analista de Orçamentos (Freelancer)
+Empresa de Engenharia Civil – RJ
+	•	Elaboração e estruturação de planilhas orçamentárias em Excel
+	•	Organização e consolidação de custos de materiais e serviços
+	•	Controle financeiro por centro de custo
+	•	Apoio na análise de variação entre valores previstos e realizados
+
+⸻
+
+Projetos
+
+📊 Dashboard Financeiro em Power BI
+	•	Análise de receitas, despesas e indicadores mensais
+
+📈 Planilha de Controle Orçamentário
+	•	Comparação entre orçado vs realizado
+	•	Estruturação de modelo financeiro para acompanhamento de custos
+
+📑 Relatórios Financeiros por Centro de Custo
+	•	Organização e análise de dados para suporte gerencial
+
+⸻
+
+Ferramentas
+	•	Excel
+	•	Power BI
+	•	Noções de SQL
+	•	Análise de Dados Financeiros
+
+⸻
+
+Objetivo
+
+Atuar em estágio nas áreas de:
+	•	Controladoria
+	•	Planejamento Financeiro (FP&A)
+	•	Análise de Custos
+	•	Financeiro Corporativo
