@@ -1,4 +1,4 @@
-#Gustavo Silva
+Gustavo Silva
 
 🎓 Estudante de Ciências Contábeis
 📊 Foco em Controladoria | FP&A | Análise de Custos
@@ -6,7 +6,7 @@
 
 ⸻
 
-#Sobre mim
+Sobre mim
 
 Sou estudante de Ciências Contábeis com interesse em Planejamento Financeiro, Controladoria e Análise de Desempenho.
 
@@ -17,7 +17,7 @@ Busco oportunidade de estágio para desenvolver habilidades analíticas e contri
 ⸻
 
 
-#Projetos
+Projetos
 
 📊 Dashboard Financeiro em Power BI
 	•	Análise de receitas, despesas e indicadores mensais
@@ -31,7 +31,8 @@ Busco oportunidade de estágio para desenvolver habilidades analíticas e contri
 
 ⸻
 
-#Ferramentas
+Ferramentas
+
 	•	Excel
 	•	Power BI
 	•	Noções de SQL
@@ -39,7 +40,7 @@ Busco oportunidade de estágio para desenvolver habilidades analíticas e contri
 
 ⸻
 
-#Objetivo
+Objetivo
 
 Atuar em estágio nas áreas de:
 	•	Controladoria
